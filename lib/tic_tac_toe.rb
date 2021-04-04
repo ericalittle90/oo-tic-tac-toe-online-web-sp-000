@@ -37,6 +37,6 @@ class TicTacToe
     @board[index]==" " ? false : true
   end
 
-  
+
 
 end
