@@ -6,4 +6,4 @@ attr_accessor :board, :index
     @board = board || Array.new(9, " ")
   end
 
-end 
+end
